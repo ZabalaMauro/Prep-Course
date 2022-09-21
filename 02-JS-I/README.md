@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-# JavaScript I
+# JavaScript 1
 
 #### Introducción a JavaScript
 

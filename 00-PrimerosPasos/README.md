@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-# Primeros Pasos
+# Hola
 
 #### Preparando tu compu
 
